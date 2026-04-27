@@ -9,6 +9,7 @@ I'm pursuing a master's degree within Industrial Engineering and management - cu
 - ADA
 
 ## 🌍 A bit more about me
+- Technical Intern at **Ericsson** through Tekniksprånget
 - Coordinated events at **Integrera**, (school association)
 - Managed purchasing for **Klassföräldrarna** (school association)
 - Volunteered rehabilitating native Costa Rican wildlife for release into the wild
