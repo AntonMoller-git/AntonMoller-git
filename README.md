@@ -16,4 +16,4 @@ I'm pursuing a master's degree within Industrial Engineering and management - cu
 - I am interested in tech, finance, wildlife and gaming!
 
 ## 📫 Let's connect
-[![LinkedIn]www.linkedin.com/in/anton-moeller
+[LinkedIn]www.linkedin.com/in/anton-moeller
