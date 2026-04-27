@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Anton Möller 👋
 
-<!--
-**AntonMoller-git/AntonMoller-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pursuing a master's degree within Industrial Engineering and management - currently exploring the world of coding and AI.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & tools
+- Java
+- C++
+- Arduino IDE
+- ADA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 A bit more about me
+- Coordinated events at **Integrera**, (school association)
+- Managed purchasing for **Klassföräldrarna** (school association)
+- Volunteered rehabilitating native Costa Rican wildlife for release into the wild
+
+- I am interested in tech, finance, wildlife and gaming!
+
+## 📫 Let's connect
+[![LinkedIn]www.linkedin.com/in/anton-moeller
